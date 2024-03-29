@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jiazheng Yu
+- 👋 Hi, I’m Jiazheng Yu, a student in Harbin Engineering University.
 - 👀 I’m interested in urban governance
 - 🌱 I’m currently learning python
 
